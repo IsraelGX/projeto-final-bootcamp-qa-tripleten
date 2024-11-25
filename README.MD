@@ -29,7 +29,7 @@
 - Figma: Para visualizar protótipos e designs de UI.
 - apiDoc: Para estudar a documentação da API e entender as especificações.
 
-  #### Documetos do projeto em *xlsx. print 4º*
+### Documetos do projeto em *xlsx. print 4º*
 
 - *Lista de verificação WEB*
 - *Dados de Validação*
