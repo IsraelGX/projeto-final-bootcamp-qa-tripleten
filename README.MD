@@ -10,13 +10,32 @@
 - *Aplicar classes de equivalência, valores-limite e uma tabela de decisão.*
 - *Otimizar o número de testes nos testes de interface de usuário e testes lógicos dos recursos.*
 - *Executar testes e realizar relatórios de bugs.*
-  
+
+## Objetivos
+
+- Realizar teste teórico sobre práticas e conhecimentos em QA.
+- Realizar testes em uma aplicação web e sua API.
+- Identificar e relatar bugs encontrados.
+- Criar um checklist de validação para os requisitos da aplicação.
+- Elaborar relatórios de bugs detalhados e atribuir prioridades.
+- Aplicar técnicas de design de testes, como classes de equivalência e valores-limite.
+
+## Ferramentas e Tecnologias Utilizadas
+
+- Postman: Para testes de API.
+- DevTools: Para inspeção e verificação de solicitações HTTP.
+- Jira: Para criação e gerenciamento de relatórios de bugs.
+- Google Sheets: Para registrar os resultados dos testes.
+- Figma: Para visualizar protótipos e designs de UI.
+- apiDoc: Para estudar a documentação da API e entender as especificações.
+
   #### Documetos do projeto em *xlsx. print 4º*
 
 - *Lista de verificação WEB*
 - *Dados de Validação*
 - *Lista de Verificação API*
 - *Avaliação Teórica*
+
 
 
 ## Conclusão
