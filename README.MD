@@ -42,7 +42,7 @@
 - *Navegue até o diretório do projeto e abra seu editor de código favorito.*
 - *Execute os testes conforme os checklists criados e registre os resultados.*
 
-# Obs: Para acessar a documentação da API e realizar os testes é necessário ter acesso ao servidor não disponível nesse momento.
+#Obs: Para acessar a documentação da API e realizar os testes é necessário ter acesso ao servidor não disponível nesse momento.
 
 
 
