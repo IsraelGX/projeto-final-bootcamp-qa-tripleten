@@ -27,7 +27,7 @@
 - Jira: Para criação e gerenciamento de relatórios de bugs.
 - Google Sheets: Para registrar os resultados dos testes.
 - Figma: Para visualizar protótipos e designs de UI. [Clique aqui](https://www.figma.com/design/X7gkPXl21HEdvPJr29m53v/Urban-Scooter-WEB-pt-br?node-id=0-1&p=f)
-- apiDoc: Para estudar a documentação da API e entender as especificações.
+- apiDoc: Para estudar a documentação da API e entender as especificações. [clique aqui](https://cnt-8fe02d10-05e1-4669-8766-872a380b13f7.containerhub.tripleten-services.com/docs/pt/)
 
 ### Documetos do projeto em *xlsx. print 4º*
 
