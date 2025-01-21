@@ -26,7 +26,7 @@
 - DevTools: Para inspeção e verificação de solicitações HTTP.
 - Jira: Para criação e gerenciamento de relatórios de bugs.
 - Google Sheets: Para registrar os resultados dos testes.
-- Figma: Para visualizar protótipos e designs de UI.
+- Figma: Para visualizar protótipos e designs de UI. [Clique aqui](https://www.figma.com/design/X7gkPXl21HEdvPJr29m53v/Urban-Scooter-WEB-pt-br?node-id=0-1&p=f)
 - apiDoc: Para estudar a documentação da API e entender as especificações.
 
 ### Documetos do projeto em *xlsx. print 4º*
