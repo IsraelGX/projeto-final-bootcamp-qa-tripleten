@@ -1,6 +1,7 @@
 # Projeto Urban.Scooter
 
    ##Descrição do Projeto
+
 Este projeto é um exercício prático de testes de QA para o aplicativo Urban.Scooter, uma plataforma que permite o aluguel de scooters elétricas. O projeto foi desenvolvido como parte de uma série de tarefas que compõem o Bootcamp de Analista de QA da TripleTen, focando em práticas de testes de software para garantir a qualidade e funcionalidade de aplicativos web e APIs.
 
 Contexto O projeto no Urban.Scooter busca melhorar sua estabilidade e a experiência do usuário através de testes detalhados e relatórios de bugs. O objetivo é validar a interface de usuário (UI) e as funcionalidades da API, assegurando que os recursos operem conforme o esperado e que quaisquer falhas sejam documentadas para correção.
